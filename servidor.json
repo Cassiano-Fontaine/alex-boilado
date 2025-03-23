@@ -1,0 +1,54 @@
+{
+    "name": "Gaming Hub",
+    "roles": [
+      { "name": "Admin", "color": "#ff0000", "permissions": "all" },
+      { "name": "Moderador", "color": "#ff8c00", "permissions": "moderate" },
+      { "name": "Membro", "color": "#00ff00", "permissions": "basic" },
+      { "name": "🎮 Valorant", "color": "#ff4655", "permissions": "view_channels" },
+      { "name": "🎮 Fortnite", "color": "#1e90ff", "permissions": "view_channels" },
+      { "name": "🎮 Minecraft", "color": "#00aa00", "permissions": "view_channels" },
+      { "name": "🎮 LoL", "color": "#daa520", "permissions": "view_channels" },
+      { "name": "🎮 CS:GO", "color": "#ffcc00", "permissions": "view_channels" },
+      { "name": "🎮 GTA V", "color": "#555555", "permissions": "view_channels" },
+      { "name": "🎮 Call of Duty", "color": "#4b5320", "permissions": "view_channels" }
+    ],
+    "channels": [
+      { "category": "📢 Informações", "channels": [
+        { "name": "📜 Regras", "type": "text" },
+        { "name": "📢 Anúncios", "type": "text" },
+        { "name": "✅ Escolha-seu-Jogo", "type": "text" }
+      ] },
+      { "category": "💬 Social", "channels": [
+        { "name": "chat-geral", "type": "text" },
+        { "name": "memes", "type": "text" },
+        { "name": "clips", "type": "text" }
+      ] },
+      { "category": "🎮 Jogos", "channels": [
+        { "name": "🎮 Valorant", "type": "text" },
+        { "name": "🎮 Fortnite", "type": "text" },
+        { "name": "🎮 Minecraft", "type": "text" },
+        { "name": "🎮 LoL", "type": "text" },
+        { "name": "🎮 CS:GO", "type": "text" },
+        { "name": "🎮 GTA V", "type": "text" },
+        { "name": "🎮 Call of Duty", "type": "text" }
+      ] },
+      { "category": "🎙️ Calls", "channels": [
+        { "name": "🎙️ Bate-papo", "type": "voice" },
+        { "name": "🎙️ Squad 1", "type": "voice" },
+        { "name": "🎙️ Squad 2", "type": "voice" },
+        { "name": "🎙️ GTA RP", "type": "voice" },
+        { "name": "🎙️ COD Warzone", "type": "voice" }
+      ] }
+    ],
+    "rules": [
+      "1. Respeite todos os membros.",
+      "2. Sem spam ou flood.",
+      "3. Sem discurso de ódio ou ofensas.",
+      "4. Use os canais corretamente.",
+      "5. Proibido conteúdo NSFW.",
+      "6. Sem promoção de outros servidores sem permissão.",
+      "7. Siga as diretrizes do Discord.",
+      "8. O descumprimento das regras pode resultar em banimento."
+    ]
+  }
+  
